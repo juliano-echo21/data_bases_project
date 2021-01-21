@@ -1,0 +1,63 @@
+* {
+    font-family: 'Century Gothic';
+    font-size: 20px;
+    background-color: #fff2ee;
+}
+#labelHasta{
+    font-family: 'Glacial indifferente';
+
+}
+
+#labelSaludo{
+    font-size: 50px;
+    font-family: Script;
+    font-weight: bold;
+}
+
+#labelVendidos{
+    font-family: Script;
+    font-size: 50px;
+    font-weight: bold;
+}
+#labelVendido{
+    font-style: italic;
+    background-color: #fff2ee;
+    font-size: large;
+}
+
+QPushButton{
+    background-color: #b97755;
+    border-radius: 20px;
+    color : white;
+}
+
+
+#botonZapato,#botonSanda,#nombreEmpleado{
+    background-color: #fff2ee;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: Script;
+    font-style: italic;
+
+}
+#botonZapatoR{
+    font-weight: bold;
+    font-size: 60px;
+    font-family: Script;
+    font-style: italic;
+}
+
+#widgetMenuLateral{
+    background-color: #9b2a06;
+}
+
+#labelVendido, #botonZapato, #botonSanda{
+    color : black;
+}
+
+#botonLateral_3,#botonLateral_2,#botonLateral_1,#botonLateral4{
+
+    color: white;
+}
+
+

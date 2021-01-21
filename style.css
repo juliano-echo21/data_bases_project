@@ -1,0 +1,47 @@
+#label {
+    font-family: 'Century Gothic';
+    font-size: 30px;
+    
+}
+QPushButton{
+    background-color: #b97155;
+    border-radius: 20px;
+}
+
+* {
+    font-family: 'Century Gothic';
+    font-size: 20px;
+    background-color: #fff2ee;
+}
+
+
+#widgetMenuLateral{
+    background-color: #9b2a06;
+}
+QLineEdit{
+    font-size: 15px;
+    border: none;
+    background-color: rgba(0,0,0,0);
+    border-bottom: 1px solid #1e7b85;
+}
+
+#commit{
+    background-color: #b97155;
+    border-radius: 20px;
+}
+#botonLateral_3,#botonLateral_2,#botonLateral_1,#botonLateral4{
+
+    color: white;
+}
+
+#terzapatilla,#sandalia{
+    font-weight: bold;
+    font-style: italic;
+
+
+}
+
+
+
+
+
